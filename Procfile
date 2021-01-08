@@ -1,0 +1,1 @@
+web: NODE_ENV=production MONGO_USER=Gal MONGO_PASSWORD=root MONGO_DEFAULT_DATABASE=dumplings-tlv node app.js app.js
